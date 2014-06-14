@@ -1,4 +1,4 @@
-blunt-ajax
+Blunt AJAX
 ==========
 
 AJAX in WordPress Without Frameworks

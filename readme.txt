@@ -184,7 +184,7 @@ You should use Blunt Ajax when you don't want to use a JavaScript framework. If 
 == Changelog ==
 
 = 1.1.0 =
-* Altered JS so that debug does not need to be first parameter passed in arguments when calling blungAjax
+* Altered JS so that debug does not need to be first parameter passed in arguments when calling bluntAjax
 * Corrected a typo in the message returned by test script
 * Added URI encoding or escaping of parameter values (see documentation)
 * Added documentation on encoding

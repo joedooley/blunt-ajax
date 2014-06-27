@@ -24,10 +24,12 @@ I am open to suggestions for improvement of this plugin. Submit a support reques
 == Installation ==
 
 **As a Plugin**
+
 1. Upload the Blunt GA plugin to the plugin folder of your site
 2. Activate it from the Plugins Page
 
 **Include within your theme or plugin**
+
 1. Copy the Blunt-Ajax folder to your theme or plugin folder
 2. Add the following code to your theme or plugin
 `include(dirname(__FILE__).'/blunt-ajax/blunt.ajax.php');`
